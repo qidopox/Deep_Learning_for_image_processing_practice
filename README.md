@@ -1,3 +1,5 @@
+# Introduction to Deep Learning for image processing practice
+
 Welcome to the introduction to deep learning for image processing practice. 
 
 To start this practice, you may need to have a github account and a Google account.
